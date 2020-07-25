@@ -1,6 +1,6 @@
 # Heroes of Pymoli
 
-#### -- Project Status: Active
+#### -- Project Status: Completed
 
 ### Technologies
 * Python
